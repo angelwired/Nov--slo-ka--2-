@@ -40,10 +40,15 @@
 }
 
 .obrazek1 {
-    justify-content: center;
+    
+    text-align: center;
 }
 
 .obrazek2 {
     height: 200px;
     width: auto;
+}
+
+body {
+    background-color: rgb(255, 172, 183);
 }
