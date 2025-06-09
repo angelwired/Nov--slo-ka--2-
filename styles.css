@@ -1,0 +1,49 @@
+.nadpis1 {
+    text-align: center;
+}
+
+.nadpis2 {
+    text-align: center;
+}
+
+.karta1 {
+        border: 4px dotted rgb(63, 182, 238);
+        border-radius: 10%;
+        padding: 20px;
+        background-color: rgb(67, 255, 214) ;
+        opacity: 100%;
+        margin: 10px;
+}
+
+.karta2 {
+    border: 4px dotted rgb(144, 250, 111);
+    border-radius: 10%;
+    padding: 20px;
+        background-color: rgb(13, 255, 65) ;
+        opacity: 100%;
+        margin: 10px;
+}
+
+.karta1:hover {
+    border: 4px dotted rgb(132, 111, 250);
+    background-color: rgb(137, 192, 255);
+}
+
+.karta2:hover {
+    border: 4px dotted rgb(132, 111, 250);
+    background-color: rgb(137, 192, 255);
+}
+
+.container {
+    display: flex;
+  flex-wrap: wrap; 
+}
+
+.obrazek1 {
+    justify-content: center;
+}
+
+.obrazek2 {
+    height: 200px;
+    width: auto;
+}
